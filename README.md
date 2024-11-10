@@ -1,5 +1,4 @@
 # PerfectColorSwitchingInterface (PCSI for short)
-A replacement of the ever-frustrating bucket tool
 
 This was born due to my frustrations with changing colors in a picture using the bucket tool : There is no tolerance for color gradients making it an absolute pain, and replacing by a flat color erases many gradients and interesting features. This tool instead allows you to select a range of colors to be replaced and keeps the brightness differences of replaced colors, making it much cleaner
 
